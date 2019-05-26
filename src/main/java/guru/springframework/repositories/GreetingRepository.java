@@ -2,5 +2,9 @@ package guru.springframework.repositories;
 
 public interface GreetingRepository {
 
-    public String getGreeting();
+    String getEnglishGreeting();
+
+    String getSpanishGreeting();
+
+    String getGermanGreeting();
 }
