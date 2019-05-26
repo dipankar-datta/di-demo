@@ -1,4 +1,4 @@
-package guru.springframework.services;
+package guru.services;
 
 import guru.springframework.repositories.GreetingRepository;
 import org.springframework.context.annotation.Primary;
