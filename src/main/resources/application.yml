@@ -1,0 +1,5 @@
+guru:
+    jms:
+      username: JMS Dipankar
+      password: jms1234
+      dburl: localhost:8080/jms
