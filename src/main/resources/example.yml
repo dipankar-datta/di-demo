@@ -1,0 +1,41 @@
+# this is a comment
+
+name: John
+
+names:
+  - John
+  - Paul
+  - Ringo
+
+pounde_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: Black bird
+
+truth: yes
+
+another_truth: True
+
+more_truth: true
+
+false: no
+
+another_false: False
+
+more_false: false
+
+string_val: "This is it's quote"
+
+colon_string: "my courses: one two three"
+
+include_new_line: |
+  abcd efgh ijkl
+  monp qrst uvwx
+  yx 1234 5678
+  90
+
+ignore_new_lines: >
+  abcd
+  efgh
+  ijkl
